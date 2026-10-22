@@ -1,62 +1,97 @@
-<h1 align="center">Hi, I'm Engr. Minahil Sajjad 👋</h1>
-<p align="center"><b>Full Stack Developer · PHP · Laravel · React · Next.js</b></p>
-<p align="center"><i>Code. Coffee. Repeat.</i></p>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="center">
-  <a href="mailto:minahelsajjad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:06b6d4&height=230&section=header&text=Minahil%20Sajjad&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="header"/>
 
----
+<a href="https://github.com/MinahilSajjad">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Minahil+%F0%9F%91%8B;Full+stack+developer%3A+Laravel+%2B+Next.js;I+build+web+apps+for+banking;Forms%2C+validation%2C+APIs+and+databases;Code.+Coffee.+Repeat.+%E2%98%95" alt="Typing intro"/>
+</a>
 
-### 🧑‍💻 About me
+<br/>
 
-- 💼 Full stack developer building web applications with **Laravel** on the backend and **React / Next.js** on the frontend
-- 🏦 Worked on production systems for the **Bank of Azad Jammu &amp; Kashmir**: the bank's public website and its internal operations platform
-- 🧩 Enjoy turning business requirements into clean forms, validation rules, database design and APIs
-- 🌱 Currently sharpening my skills in Next.js, TypeScript and testing
+<img src="https://komarev.com/ghpvc/?username=MinahilSajjad&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
 
-### 🛠️ Tech stack
+<br/><br/>
 
-**Backend:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=postman&logoColor=white)
+<a href="mailto:minahelsajjad@gmail.com"><img src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=ec4899" alt="Email"/></a>
+<a href="https://github.com/MinahilSajjad?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-1a1033?style=for-the-badge&logo=github&logoColor=06b6d4" alt="Repositories"/></a>
 
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+</div>
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<br/>
 
----
+## 👩‍💻 About me
 
-### 🚀 Projects I've worked on
+```text
+👋 Full stack developer: Laravel and PHP on the backend, React and Next.js on the frontend
+🏦 I build production web apps for the Bank of Azad Jammu & Kashmir
+📝 I turn business requirements into clean forms, validation rules and database design
+🔌 I work with REST APIs, MySQL, Livewire and Tailwind CSS
+🌱 Currently sharpening my skills in Next.js, TypeScript and testing
+💬 Ask me about Laravel, PHP, React and building business web apps
+```
 
-| Project | Stack | My contribution |
-|---|---|---|
-| [Genexis: Bank of AJK website](https://github.com/alimarchal/Genexis) | Laravel · React · TypeScript · Tailwind | Content modules for the bank's public website, including annual reports data seeding · [Live demo](https://demo.bankajk.com) |
-| [Nexus: Bank of AJK operations platform](https://github.com/alimarchal/Nexus) | Laravel · Livewire · Tailwind | Built the harassment complaint fields (date, time, location, type, witnesses) in the complaints module |
+<br/>
 
-<!-- Add your own Laravel / Next.js projects here as you publish them, e.g.
-| [project-name](https://github.com/MinahilSajjad/project-name) | Next.js · TypeScript | One line on what it does |
--->
+## 🛠️ Tech stack
 
----
+<div align="center">
 
-### 📊 GitHub stats
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=9" alt="Frontend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs&perline=9" alt="Backend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=9" alt="Data"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode&perline=9" alt="Tools"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinahilSajjad&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
+</div>
+
+<br/>
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Genexis: Bank of AJK Website](https://github.com/alimarchal/Genexis) · [live](https://demo.bankajk.com)
+Modern, secure public website for the Bank of Azad Jammu &amp; Kashmir. I worked on the content modules, including the annual reports data.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ [Nexus: Bank Operations Platform](https://github.com/alimarchal/Nexus)
+Internal banking platform for account opening, loans, file management and complaints. I built the harassment complaint fields: date, time, location, type and witnesses.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> Most of my work lives in private repositories. Happy to walk through it on a call.
+
+<br/>
+
+## 📫 Let's connect
+
+I'm open to full stack work with Laravel and Next.js. The fastest way to reach me is by [email](mailto:minahelsajjad@gmail.com).
+
+<div align="center">
+
+<br/>
+
+**Code. Coffee. Repeat.** ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
