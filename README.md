@@ -82,6 +82,20 @@ Internal banking platform for account opening, loans, file management and compla
 
 <br/>
 
+## 📊 My contributions in 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## 📫 Let's connect
 
 I'm open to full stack work with Laravel and Next.js. The fastest way to reach me is by [email](mailto:minahelsajjad@gmail.com).
